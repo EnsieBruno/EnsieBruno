@@ -26,17 +26,26 @@ Estou em transição de carreira com foco em back-end, buscando atuar em times d
 ## 🚀 Projetos em andamento
 
 Em breve, você encontrará aqui:
-- APIs RESTful com autenticação e regras de negócio
-- Automação de tarefas e processamento de dados
-- Simuladores e sistemas voltados para produtos financeiros
+- APIs RESTful com autenticação e regras de negócio  
+- Automação de tarefas e processamento de dados  
+- Simuladores e sistemas voltados para produtos financeiros  
 
 ---
 
 ## 📫 Como me encontrar
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/alves1bruno/)
-[<img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" width="30"/>](mailto:bruno.apr@live.com)
-[<img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="30"/>](https://www.instagram.com/alves.bruno.s/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alves1bruno/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" />
+  </a>
+  <a href="mailto:bruno.apr@live.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" alt="Email Outlook" width="50" />
+  </a>
+  <a href="https://www.instagram.com/alves.bruno.s/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="50" />
+  </a>
+</p>
+
 - GitHub: Você já está aqui 😊
 
 ---
