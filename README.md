@@ -34,9 +34,9 @@ Em breve, você encontrará aqui:
 
 ## 📫 Como me encontrar
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>](https://www.linkedin.com/in/alves1bruno/)
-[<img src="https://img.icons8.com/color/48/000000/outlook.png" width="20"/>](mailto:bruno.apr@live.com)
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="20"/>](https://www.instagram.com/alves.bruno.s/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/alves1bruno/)
+[<img src="https://img.icons8.com/?size=100&id=117562&format=png&color=000000" width="30"/>](mailto:bruno.apr@live.com)
+[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30"/>](https://www.instagram.com/alves.bruno.s/)
 - GitHub: Você já está aqui 😊
 
 ---
