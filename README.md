@@ -6,7 +6,7 @@ Sou um **aspirante a Desenvolvedor Backend** com foco em construir soluções pa
 
 ## 🧠 O que estou estudando atualmente:
 
-- 🐍 **Java Development** 
+-  **Java Development** 
 - 🧩 **Ciência de Dados** – Modelagem, análise e visão orientada a dados  
 - 🔗 **Desenvolvimento Backend** – FastAPI, Flask, SQL, testes e boas práticas  
 - 🧪 **Testes & Qualidade de Código** – versionamento com Git  
