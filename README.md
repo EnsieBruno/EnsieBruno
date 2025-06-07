@@ -6,10 +6,10 @@ Sou um **aspirante a Desenvolvedor Backend** com foco em construir soluções pa
 
 ## 🧠 O que estou estudando atualmente:
 
-- 🐍 **Python Development** – APIs, automações, lógica de negócios  
+- 🐍 **Java Development** 
 - 🧩 **Ciência de Dados** – Modelagem, análise e visão orientada a dados  
 - 🔗 **Desenvolvimento Backend** – FastAPI, Flask, SQL, testes e boas práticas  
-- 🧪 **Testes & Qualidade de Código** – Pytest, versionamento com Git  
+- 🧪 **Testes & Qualidade de Código** – versionamento com Git  
 - 💡 **Produto & Negócio** – Como entregar valor real para pessoas e empresas  
 - 💸 **Fintechs e SaaS** – Meu ecossistema de interesse e atuação
 
