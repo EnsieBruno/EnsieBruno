@@ -8,7 +8,7 @@ Sou um **aspirante a Desenvolvedor Backend** com foco em construir soluções pa
 
 - **Desenvolvimento Java e Python** – programação orientada a objetos, frameworks e boas práticas  
 - 🧩 **Ciência de Dados** – modelagem, análise e visão orientada a dados  
-- 🔗 **Desenvolvimento Backend** – FastAPI, Flask, SQL, testes e versionamento com Git  
+- 🔗 **Desenvolvimento Backend** – FastAPI, Flask (Python), Spring Boot (Java), SQL, testes e versionamento com Git  
 - 🧪 **Testes & Qualidade de Código** – automação e boas práticas para código confiável  
 - 💡 **Produto & Negócio** – como entregar valor real para pessoas e empresas  
 - 💸 **Fintechs e SaaS** – meu ecossistema de interesse e atuação
@@ -26,7 +26,7 @@ Estou em transição de carreira com foco em back-end, buscando atuar em times d
 ## 🚀 Projetos em andamento
 
 Em breve, você encontrará aqui:
-- APIs RESTful com autenticação e regras de negócio em Python e Java  
+- APIs RESTful com autenticação e regras de negócio em Python e Java (FastAPI, Flask, Spring Boot)  
 - Automação de tarefas e processamento de dados  
 - Simuladores e sistemas voltados para produtos financeiros  
 
@@ -51,3 +51,4 @@ Em breve, você encontrará aqui:
 ---
 
 ⭐ Vamos nos conectar, trocar ideias e construir juntos soluções que importam!
+
