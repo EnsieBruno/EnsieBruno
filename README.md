@@ -1,17 +1,17 @@
 # 👋 Olá, eu sou o Bruno!
 
-Sou um **aspirante a Desenvolvedor Backend** com foco em construir soluções para produtos digitais. Tenho uma mentalidade investigativa e gosto de transformar problemas reais em código funcional, limpo e bem estruturado.
+Sou um **aspirante a Desenvolvedor Backend** com foco em construir soluções para produtos digitais. Tenho uma mentalidade investigativa e gosto de transformar problemas reais em código funcional, limpo e bem estruturado, especialmente utilizando **Python e Java**.
 
 ---
 
 ## 🧠 O que estou estudando atualmente:
 
--  **Java Development** 
-- 🧩 **Ciência de Dados** – Modelagem, análise e visão orientada a dados  
-- 🔗 **Desenvolvimento Backend** – FastAPI, Flask, SQL, testes e boas práticas  
-- 🧪 **Testes & Qualidade de Código** – versionamento com Git  
-- 💡 **Produto & Negócio** – Como entregar valor real para pessoas e empresas  
-- 💸 **Fintechs e SaaS** – Meu ecossistema de interesse e atuação
+- **Desenvolvimento Java e Python** – programação orientada a objetos, frameworks e boas práticas  
+- 🧩 **Ciência de Dados** – modelagem, análise e visão orientada a dados  
+- 🔗 **Desenvolvimento Backend** – FastAPI, Flask, SQL, testes e versionamento com Git  
+- 🧪 **Testes & Qualidade de Código** – automação e boas práticas para código confiável  
+- 💡 **Produto & Negócio** – como entregar valor real para pessoas e empresas  
+- 💸 **Fintechs e SaaS** – meu ecossistema de interesse e atuação
 
 ---
 
@@ -26,7 +26,7 @@ Estou em transição de carreira com foco em back-end, buscando atuar em times d
 ## 🚀 Projetos em andamento
 
 Em breve, você encontrará aqui:
-- APIs RESTful com autenticação e regras de negócio  
+- APIs RESTful com autenticação e regras de negócio em Python e Java  
 - Automação de tarefas e processamento de dados  
 - Simuladores e sistemas voltados para produtos financeiros  
 
