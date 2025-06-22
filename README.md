@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou o Bruno!
 
-Sou um **aspirante a Desenvolvedor Backend** com foco em construir soluções para produtos digitais. Tenho uma mentalidade investigativa e gosto de transformar problemas reais em código funcional, limpo e bem estruturado, especialmente utilizando **Python e Java**.
+Sou um **Desenvolvedor fullstack iniciante** com foco em construir soluções para produtos digitais. Tenho uma mentalidade investigativa e gosto de transformar problemas reais em código funcional, limpo e bem estruturado, especialmente utilizando **React e Python**.
 
 ---
 
 ## 🧠 O que estou estudando atualmente:
 
-- **Desenvolvimento Java e Python** – programação orientada a objetos, frameworks e boas práticas  
+- **Desenvolvimento React e Python** – programação orientada a objetos, frameworks e boas práticas  
 - 🧩 **Ciência de Dados** – modelagem, análise e visão orientada a dados  
-- 🔗 **Desenvolvimento Backend** – FastAPI, Flask (Python), Spring Boot (Java), SQL, testes e versionamento com Git  
+- 🔗 **Desenvolvimento Backend** – FastAPI, Flask (Python), SQL, testes e versionamento com Git  
 - 🧪 **Testes & Qualidade de Código** – automação e boas práticas para código confiável  
 - 💡 **Produto & Negócio** – como entregar valor real para pessoas e empresas  
 - 💸 **Fintechs e SaaS** – meu ecossistema de interesse e atuação
