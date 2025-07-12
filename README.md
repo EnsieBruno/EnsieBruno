@@ -1,38 +1,26 @@
 # 👋 Olá, eu sou o Bruno!
 
-Sou um **Desenvolvedor fullstack iniciante** com foco em construir soluções para produtos digitais. Tenho uma mentalidade investigativa e gosto de transformar problemas reais em código funcional, limpo e bem estruturado, especialmente utilizando **React e Python**.
+Sou **Analista de Tecnologia** com **8 anos de experiência** em **suporte técnico**, **operações de sistemas**, e **análise de soluções para produtos digitais**. Atualmente, estou em transição de carreira para o desenvolvimento back-end com foco em **Java com Spring Boot**, unindo minha bagagem em tecnologia com uma visão de produto adquirida em ambientes **SaaS**, **fintechs** e **telecomunicações**.
 
 ---
 
-## 🧠 O que estou estudando atualmente:
+## 💻 Tecnologias & Conhecimentos
 
-- **Desenvolvimento React e Python** – programação orientada a objetos, frameworks e boas práticas  
-- 🧩 **Ciência de Dados** – modelagem, análise e visão orientada a dados  
-- 🔗 **Desenvolvimento Backend** – FastAPI, Flask (Python), SQL, testes e versionamento com Git  
-- 🧪 **Testes & Qualidade de Código** – automação e boas práticas para código confiável  
-- 💡 **Produto & Negócio** – como entregar valor real para pessoas e empresas  
-- 💸 **Fintechs e SaaS** – meu ecossistema de interesse e atuação
-
----
-
-## 💼 Sobre mim
-
-Tenho experiência anterior com **suporte técnico e sucesso do cliente**, o que fortaleceu minhas habilidades de comunicação, empatia e visão de produto. Hoje, trago esse olhar para o desenvolvimento de soluções técnicas e automatizadas.
-
-Estou em transição de carreira com foco em back-end, buscando atuar em times de tecnologia, especialmente em ambientes **fintech**, **startups** e **SaaS**.
+- **HTML, CSS, JavaScript, Python** – construção de aplicações web, interatividade e automações  
+- **Java + Spring Boot** – desenvolvimento de APIs REST, regras de negócio, injeção de dependência  
+- **Metodologias Ágeis** – experiência com **Scrum**, **Kanban** e práticas de **XP (eXtreme Programming)**  
+- **Git e GitHub** – versionamento e colaboração em equipe  
+- **Sistemas SaaS & Fintechs** – familiaridade com integrações, suporte técnico e análise de incidentes  
 
 ---
 
-## 🚀 Projetos em andamento
+## 🎓 Em formação
 
-Em breve, você encontrará aqui:
-- APIs RESTful com autenticação e regras de negócio em Python e Java (FastAPI, Flask, Spring Boot)  
-- Automação de tarefas e processamento de dados  
-- Simuladores e sistemas voltados para produtos financeiros  
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento backend e automações. Sou um **entusiasta de IA e soluções automatizadas**, buscando constantemente formas de transformar problemas em soluções técnicas escaláveis.
 
 ---
 
-## 📫 Como me encontrar
+## 🤝 Vamos nos conectar?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alves1bruno/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
@@ -50,5 +38,4 @@ Em breve, você encontrará aqui:
 
 ---
 
-⭐ Vamos nos conectar, trocar ideias e construir juntos soluções que importam!
-
+⭐ Gosto de aprender, colaborar e resolver problemas com tecnologia. Vamos construir juntos soluções que fazem a diferença!
