@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou o Bruno!
+# 👋 Olá, eu sou o Bruno Alves!
 
-Sou **Analista de Tecnologia** com **8 anos de experiência** em **suporte técnico**, **operações de sistemas**, e **análise de soluções para produtos digitais**. Atualmente, estou em transição de carreira para o desenvolvimento back-end com foco em **Java com Spring Boot**, unindo minha bagagem em tecnologia com uma visão de produto adquirida em ambientes **SaaS**, **fintechs** e **telecomunicações**.
+Sou **Analista de Tecnologia** com **8 anos de experiência** em **suporte técnico**, **operações de sistemas**, e **análise de soluções para produtos digitais**. Atualmente, estou em transição de carreira para o **desenvolvimento full stack**, com foco em **JavaScript, Node.js e tecnologias modernas de front-end**, unindo minha bagagem em tecnologia com uma visão de produto adquirida em ambientes **SaaS**, **fintechs** e **telecomunicações**.
 
 ---
 
 ## 💻 Tecnologias & Conhecimentos
 
-- **HTML, CSS, JavaScript, Python** – construção de aplicações web, interatividade e automações  
-- **Java + Spring Boot** – desenvolvimento de APIs REST, regras de negócio, injeção de dependência  
+- **HTML, CSS, JavaScript, Node.js, React** – desenvolvimento full stack, criação de interfaces modernas e APIs escaláveis  
+- **MongoDB, MySQL** – persistência de dados e modelagem de banco  
 - **Metodologias Ágeis** – experiência com **Scrum**, **Kanban** e práticas de **XP (eXtreme Programming)**  
 - **Git e GitHub** – versionamento e colaboração em equipe  
 - **Sistemas SaaS & Fintechs** – familiaridade com integrações, suporte técnico e análise de incidentes  
@@ -16,7 +16,7 @@ Sou **Analista de Tecnologia** com **8 anos de experiência** em **suporte técn
 
 ## 🎓 Em formação
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento backend e automações. Sou um **entusiasta de IA e soluções automatizadas**, buscando constantemente formas de transformar problemas em soluções técnicas escaláveis.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento full stack e automações. Sou um **entusiasta de IA e soluções automatizadas**, buscando constantemente formas de transformar problemas em soluções técnicas escaláveis.
 
 ---
 
